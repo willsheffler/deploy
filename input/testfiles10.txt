@@ -1,0 +1,10 @@
+/home/sheffler/debug/mof/peptides/scaffolds/C3/9res/aligned/c.10.2_0001.pdb.noter.pdb
+/home/sheffler/debug/mof/peptides/scaffolds/C3/9res/aligned/c.12.10_0001.pdb.noter.pdb
+/home/sheffler/debug/mof/peptides/scaffolds/C3/12res/aligned/c.55.6_0001.pdb.noter.pdb
+/home/sheffler/debug/mof/peptides/scaffolds/C3/15res/aligned/c.33.6_0001.pdb.noter.pdb
+/home/sheffler/debug/mof/peptides/scaffolds/C3/15res/aligned/c.62.3_0001.pdb.noter.pdb
+/home/sheffler/debug/mof/peptides/scaffolds/C3/15res/aligned/c.74.6_0001.pdb.noter.pdb
+/home/sheffler/debug/mof/peptides/scaffolds/C3/15res/aligned/c.81.2_0001.pdb.noter.pdb
+/home/sheffler/debug/mof/peptides/scaffolds/C3/18res/aligned/c.1.1_0001.pdb.noter.pdb
+/home/sheffler/debug/mof/peptides/scaffolds/C3/18res/aligned/c.205.1_0001.pdb.noter.pdb
+/home/sheffler/debug/mof/peptides/scaffolds/C3/18res/aligned/c.312.1_0001.pdb.noter.pdb

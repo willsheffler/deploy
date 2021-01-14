@@ -1,0 +1,21 @@
+{
+   "folders":
+   [
+      {
+         "name":"DEPLOYED",
+         "path": "/digs/sheffler/debug/mof/new_1res"
+
+      },
+      {
+         "name": "SRC",
+         "path": "/digs/sheffler/src/mof"
+      },
+      {
+         "name":"SCAFFOLDS",
+         "path": "/home/sheffler/debug/mof/peptides", 
+         "file_exclude_patterns": [
+          "*.pdb"
+       ]
+      }
+   ]
+}
